@@ -20,10 +20,6 @@
   <p>A developer from Nepal who cares about how things look just as much as how they work.<br/>I move across the full stack, spend too many hours in Blender, and build things that feel good to use.</p>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sneha-Neupanee&color=FFB6C1&style=flat-square&label=profile+views" alt="profile views" />
-</div>
-
 <br/><br/>
 
 <div align="center">
@@ -70,13 +66,40 @@
 <br/><br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=FFF0F5,FFE4EC&height=46&text=Activity&fontSize=20&fontColor=C96080&fontAlign=50&fontAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=FFF0F5,FFE4EC&height=46&text=A+little+about+how+I+think&fontSize=20&fontColor=C96080&fontAlign=50&fontAlignY=58" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sneha-Neupanee&bg_color=fff8fb&color=D4718A&line=FFB6C1&point=D4718A&area=true&area_color=FFE4EC&hide_border=true" width="95%" />
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" width="200" style="padding: 16px;">
+        <img src="https://capsule-render.vercel.app/api?type=rounded&color=FFF0F5,FFE4EC&height=80&text=Design&fontSize=16&fontColor=C96080" width="160" /><br/>
+        <sub>Good design isn't decoration. It's the difference between something that works and something people remember.</sub>
+      </td>
+      <td align="center" width="200" style="padding: 16px;">
+        <img src="https://capsule-render.vercel.app/api?type=rounded&color=FFF0F5,FFE4EC&height=80&text=Code&fontSize=16&fontColor=C96080" width="160" /><br/>
+        <sub>I like code that reads like it was written by someone who cared. Clean, intentional, and worth coming back to.</sub>
+      </td>
+      <td align="center" width="200" style="padding: 16px;">
+        <img src="https://capsule-render.vercel.app/api?type=rounded&color=FFF0F5,FFE4EC&height=80&text=Build&fontSize=16&fontColor=C96080" width="160" /><br/>
+        <sub>The best projects I've worked on started with a simple idea and became something I was actually proud to show.</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/><br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=FFF0F5,FFE4EC&height=46&text=A+dev+joke+a+day&fontSize=20&fontColor=C96080&fontAlign=50&fontAlignY=58" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%23fff8fb&textColor=%23C96080&aColor=%23D4718A&borderColor=%23FFE4EC&qColor=%23C96080" alt="Dev joke" />
 </div>
 
 <br/><br/>
