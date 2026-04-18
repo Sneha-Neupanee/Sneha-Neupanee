@@ -17,7 +17,7 @@
 <br/>
 
 <div align="center">
-  <p>A developer who cares about how things look just as much as how they work.<br/>I move across the full stack, I like displaying my creative side in the works I do and build things that feel good to use.</p>
+  <p>A developer who cares about how things look just as much as how they work.<br/>I move across the full stack, I like displaying my creative side in the works I do. I build things that feel good to use.</p>
 </div>
 
 <br/><br/>
