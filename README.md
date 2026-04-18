@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=32&pause=1000&color=D4718A&center=true&vCenter=true&width=600&lines=%+I'm+Sneha+Neupane.;I+build+things+I'm+proud+of.;Design+meets+code%2C+always." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=32&pause=1000&color=D4718A&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sneha+Neupane.;I+build+things+I'm+proud+of.;Design+meets+code%2C+always." alt="Typing SVG" />
 </div>
 
 <br/>
@@ -61,59 +61,6 @@
   ![Trello](https://img.shields.io/badge/Trello-FFE4EC?style=flat-square&logo=trello&logoColor=C96080)&nbsp;
   ![Visual Studio](https://img.shields.io/badge/Visual+Studio-FFE4EC?style=flat-square&logo=visualstudio&logoColor=C96080)
 
-</div>
-
-<br/><br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=FFF0F5,FFE4EC&height=46&text=A+little+about+how+I+think&fontSize=20&fontColor=C96080&fontAlign=50&fontAlignY=58" />
-</div>
-
-<br/>
-
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="center" width="200" style="padding: 16px;">
-        <img src="https://capsule-render.vercel.app/api?type=rounded&color=FFF0F5,FFE4EC&height=80&text=Design&fontSize=16&fontColor=C96080" width="160" /><br/>
-        <sub>Good design isn't decoration. It's the difference between something that works and something people remember.</sub>
-      </td>
-      <td align="center" width="200" style="padding: 16px;">
-        <img src="https://capsule-render.vercel.app/api?type=rounded&color=FFF0F5,FFE4EC&height=80&text=Code&fontSize=16&fontColor=C96080" width="160" /><br/>
-        <sub>I like code that reads like it was written by someone who cared. Clean, intentional, and worth coming back to.</sub>
-      </td>
-      <td align="center" width="200" style="padding: 16px;">
-        <img src="https://capsule-render.vercel.app/api?type=rounded&color=FFF0F5,FFE4EC&height=80&text=Build&fontSize=16&fontColor=C96080" width="160" /><br/>
-        <sub>The best projects I've worked on started with a simple idea and became something I was actually proud to show.</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/><br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=FFF0F5,FFE4EC&height=46&text=A+dev+joke+a+day&fontSize=20&fontColor=C96080&fontAlign=50&fontAlignY=58" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?bgColor=%23fff8fb&textColor=%23C96080&aColor=%23D4718A&borderColor=%23FFE4EC&qColor=%23C96080" alt="Dev joke" />
-</div>
-
-<br/><br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=FFF0F5,FFE4EC&height=46&text=Currently+Listening+To&fontSize=20&fontColor=C96080&fontAlign=50&fontAlignY=58" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/dx0yv5kba1rn27p7sme5zr6zk">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=dx0yv5kba1rn27p7sme5zr6zk&count=5" alt="Spotify recently played" />
-  </a>
 </div>
 
 <br/><br/>
