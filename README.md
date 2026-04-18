@@ -1,90 +1,88 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=FFB6C1,FFC8D4,FFDDE6&section=header&reversal=false" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=FFF0F5,FFE4EC,FFD6E7&section=header&reversal=false" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="180" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=32&pause=1000&color=D4718A&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sneha+Neupane.;I+build+things+I'm+proud+of.;Design+meets+code%2C+always." alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <h1>Sneha Neupane</h1>
-</div>
-
-<div align="center">
-  <p>
-    I'm a developer based in Nepal who genuinely enjoys building things — whether that's a clean interface, a solid backend, or something in between. I work across the stack and spend more time in Blender than I probably should. I care about how things look just as much as how they work, and I think good code and good design go hand in hand.
-  </p>
-  <p>
-    When I'm not coding, I'm usually listening to music, exploring new tools, or thinking about the next thing I want to build.
-  </p>
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=FFB6C1,FFC8D4&height=50&text=Skills&fontSize=22&fontColor=b5527a&fontAlign=50&fontAlignY=55" />
+  <img src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="160" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="react" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="python" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="javascript" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="38" alt="c++" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="css3" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="38" alt="django" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="38" alt="express" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="38" alt="fastapi" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="38" alt="figma" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="git" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="38" alt="github" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" alt="mysql" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="38" alt="mongodb" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" alt="nodejs" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="38" alt="pandas" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="38" alt="tailwindcss" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="38" alt="threejs" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="38" alt="blender" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="38" alt="trello" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="38" alt="visual studio" />
+  <p>A developer from Nepal who cares about how things look just as much as how they work.<br/>I move across the full stack, spend too many hours in Blender, and build things that feel good to use.</p>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sneha-Neupanee&color=FFB6C1&style=flat-square&label=profile+views" alt="profile views" />
+</div>
+
+<br/><br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=FFF0F5,FFE4EC&height=46&text=Skills&fontSize=20&fontColor=C96080&fontAlign=50&fontAlignY=58" />
 </div>
 
 <br/>
 
----
+<div align="center">
+
+  ![React](https://img.shields.io/badge/React-FFE4EC?style=flat-square&logo=react&logoColor=C96080)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/JavaScript-FFE4EC?style=flat-square&logo=javascript&logoColor=C96080)&nbsp;
+  ![Python](https://img.shields.io/badge/Python-FFE4EC?style=flat-square&logo=python&logoColor=C96080)&nbsp;
+  ![C++](https://img.shields.io/badge/C++-FFE4EC?style=flat-square&logo=cplusplus&logoColor=C96080)&nbsp;
+  ![CSS3](https://img.shields.io/badge/CSS3-FFE4EC?style=flat-square&logo=css3&logoColor=C96080)&nbsp;
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind-FFE4EC?style=flat-square&logo=tailwindcss&logoColor=C96080)&nbsp;
+  ![Three.js](https://img.shields.io/badge/Three.js-FFE4EC?style=flat-square&logo=three.js&logoColor=C96080)
+
+</div>
+
+<div align="center">
+
+  ![Node.js](https://img.shields.io/badge/Node.js-FFE4EC?style=flat-square&logo=nodedotjs&logoColor=C96080)&nbsp;
+  ![Express](https://img.shields.io/badge/Express-FFE4EC?style=flat-square&logo=express&logoColor=C96080)&nbsp;
+  ![Django](https://img.shields.io/badge/Django-FFE4EC?style=flat-square&logo=django&logoColor=C96080)&nbsp;
+  ![FastAPI](https://img.shields.io/badge/FastAPI-FFE4EC?style=flat-square&logo=fastapi&logoColor=C96080)&nbsp;
+  ![MongoDB](https://img.shields.io/badge/MongoDB-FFE4EC?style=flat-square&logo=mongodb&logoColor=C96080)&nbsp;
+  ![MySQL](https://img.shields.io/badge/MySQL-FFE4EC?style=flat-square&logo=mysql&logoColor=C96080)&nbsp;
+  ![Pandas](https://img.shields.io/badge/Pandas-FFE4EC?style=flat-square&logo=pandas&logoColor=C96080)
+
+</div>
+
+<div align="center">
+
+  ![Figma](https://img.shields.io/badge/Figma-FFE4EC?style=flat-square&logo=figma&logoColor=C96080)&nbsp;
+  ![Blender](https://img.shields.io/badge/Blender-FFE4EC?style=flat-square&logo=blender&logoColor=C96080)&nbsp;
+  ![Git](https://img.shields.io/badge/Git-FFE4EC?style=flat-square&logo=git&logoColor=C96080)&nbsp;
+  ![GitHub](https://img.shields.io/badge/GitHub-FFE4EC?style=flat-square&logo=github&logoColor=C96080)&nbsp;
+  ![Trello](https://img.shields.io/badge/Trello-FFE4EC?style=flat-square&logo=trello&logoColor=C96080)&nbsp;
+  ![Visual Studio](https://img.shields.io/badge/Visual+Studio-FFE4EC?style=flat-square&logo=visualstudio&logoColor=C96080)
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=FFF0F5,FFE4EC&height=46&text=Activity&fontSize=20&fontColor=C96080&fontAlign=50&fontAlignY=58" />
+</div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=FFB6C1,FFC8D4&height=50&text=Currently+Listening+To&fontSize=22&fontColor=b5527a&fontAlign=50&fontAlignY=55" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sneha-Neupanee&bg_color=fff8fb&color=D4718A&line=FFB6C1&point=D4718A&area=true&area_color=FFE4EC&hide_border=true" width="95%" />
+</div>
+
+<br/><br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=FFF0F5,FFE4EC&height=46&text=Currently+Listening+To&fontSize=20&fontColor=C96080&fontAlign=50&fontAlignY=58" />
 </div>
 
 <br/>
@@ -95,25 +93,8 @@
   </a>
 </div>
 
-<br/>
-
----
-
-<br/>
+<br/><br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=FFB6C1,FFC8D4&height=50&text=GitHub+Stats&fontSize=22&fontColor=b5527a&fontAlign=50&fontAlignY=55" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sneha-Neupanee&show_icons=true&theme=rose_pine&hide_border=true&bg_color=fff0f5&title_color=c9608a&icon_color=FFB6C1&text_color=6e3050" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha-Neupanee&layout=compact&theme=rose_pine&hide_border=true&bg_color=fff0f5&title_color=c9608a&text_color=6e3050" height="160" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFDDE6,FFC8D4,FFB6C1&section=footer&reversal=false" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=FFD6E7,FFE4EC,FFF0F5&section=footer&reversal=false" />
 </div>
