@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=32&pause=1000&color=D4718A&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sneha+Neupane.;I+build+things+I'm+proud+of.;Design+meets+code%2C+always." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=32&pause=1000&color=D4718A&center=true&vCenter=true&width=600&lines=%2C+I'm+Sneha+Neupane.;I+build+things+I'm+proud+of.;Design+meets+code%2C+always." alt="Typing SVG" />
 </div>
 
 <br/>
@@ -17,7 +17,7 @@
 <br/>
 
 <div align="center">
-  <p>A developer from Nepal who cares about how things look just as much as how they work.<br/>I move across the full stack, spend too many hours in Blender, and build things that feel good to use.</p>
+  <p>A developer who cares about how things look just as much as how they work.<br/>I move across the full stack, spend too many hours in Blender, and build things that feel good to use.</p>
 </div>
 
 <br/><br/>
