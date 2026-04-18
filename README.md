@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://tenor.com/view/typing-hello-kitty-tap-working-gif-15021793" width="160" />
+  <img src="https://media1.tenor.com/m/c6gKyfu4E_4AAAAd/typing-hello-kitty.gif" width="160" />
 </div>
 
 <br/>
