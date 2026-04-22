@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=FFF0F5,FFE4EC,FFD6E7&section=header&reversal=false" />
 </div>
 <p align="center">
-  <img src="https://webpets-flame.vercel.app/generated/crab/red_run_8fps.gif" alt="Crab Animation" width="200"/>
+  <img src="https://webpets-flame.vercel.app/generated/panda/black_walk_fast_8fps.gif" alt="Panda" width="300"/>
 </p>
 <br/>
 <div align="center">
