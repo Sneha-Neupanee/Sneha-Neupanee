@@ -1,6 +1,7 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=FFF0F5,FFE4EC,FFD6E7&section=header&reversal=false" />
 </div>
+https://webpets-flame.vercel.app/generated/crab/red_run_8fps.gif
 <br/>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=32&pause=1000&color=D4718A&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sneha+Neupane.;I+build+things+I'm+proud+of.;Design+meets+code%2C+always." alt="Typing SVG" />
