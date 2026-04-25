@@ -2,9 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=FFF0F5,FFE4EC,FFD6E7&section=header&reversal=false" />
 </div>
 
-<p align="center">
-  <img src="assets/panda.gif" alt="Panda" width="550"/>
-</p>
+
 
 <br/>
 
